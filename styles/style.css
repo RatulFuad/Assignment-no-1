@@ -47,7 +47,7 @@ h3{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-button{
+.first-button{
     display: block;
     margin: auto;
     background-color: #4E47FF;
@@ -62,4 +62,67 @@ button{
 body{
     background-color: rgb(247, 250, 253);
 
+}
+
+
+/* main part */
+
+.main-h3{
+    color: black;
+}
+
+.main-details{
+    font-size: 25px;
+    color: #252432;
+    margin-left: 155px;
+    
+}
+
+.second-button{
+     background-color: #4E47FF;
+    padding: 15px 20px;
+    color: aliceblue;
+    font-size: large;
+    border: none;
+    border-radius: 10px;
+    margin-left: 152px;
+
+}
+
+.main-part1{
+    display: flex;
+}
+
+.main-img-first{
+    margin-left: 600px;
+    
+}
+
+.main-img-first img{
+    border-radius: 15%;
+}
+    
+
+.main-second-part{
+
+    background-color: rgb(134, 182, 221);
+    margin: 100px 300px;
+    padding: 50px;
+    border-radius: 25px;
+    
+}
+
+.p-text{
+    font-size: 40px;
+    text-align: center;
+}
+
+.add-kora ul li{
+    list-style: none;
+    
+}
+
+.add-kora{
+    display: flex;
+    justify-content: center;
 }
