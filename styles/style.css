@@ -236,3 +236,26 @@ body{
     border: none;
     border-radius: 10px;
 }
+
+
+
+/* footer */
+
+.final-footer{
+    background-color: #fefeff;
+}
+
+
+.footer-last-item {
+  display: flex;
+  justify-content: center; 
+  gap: 20px;                
+  padding: 10px 0;
+}
+
+.footer-last-item a {
+  text-decoration: none;
+  color: #726e6e;            
+  font-weight: bold;
+}
+
